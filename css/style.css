@@ -1,0 +1,17 @@
+body {
+    padding-top: 10px;
+}
+
+.htmlArray_p {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.current_day,
+.currentDayMark {
+    color: #fff;
+    background-color: #000;
+    border-radius: 10px;
+    font-weight: bold;
+    padding: 10px;
+}
